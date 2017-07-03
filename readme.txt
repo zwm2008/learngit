@@ -7,4 +7,4 @@ Git tracks changes.
 Git tracks changes of files.
 
 origin master
-Creating a new branch is quick & simple.
+Creating a new branch is quick And simple.
